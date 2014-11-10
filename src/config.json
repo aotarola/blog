@@ -1,6 +1,6 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
+    "url": "http://otarola.me",
     "name": "Interdimensional blog",
     "owner": "Andrés Otárola",
     "description": "from a wanderer traveler"
@@ -22,5 +22,6 @@
   },
   "paginator": {
     "perPage": 3
-  }
+  },
+  "output": "../"
 }

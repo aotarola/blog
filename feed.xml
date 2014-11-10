@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interdimensional blog</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>from a wanderer traveler</description>
+    <pubDate>Wed, 05 Nov 2014 21:00:00 -0300</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Wassup?</title>
+      <link>http://localhost:8080/articles/hello-world/</link>
+      <pubDate>Wed, 05 Nov 2014 21:00:00 -0300</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;First of all, let me tell you who I am; my name is Andrés Otárola, from Chile, I’m a Software Developer with 6+ years of experience, and I work @ &lt;a href=&quot;http://www.groupon.com/&quot;&gt;Groupon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Well to be honest, I gave you my name, told you my nationality, job title, and where I’m working on right now, but none of those things tells who I really am, doesn’t it?&lt;/p&gt;
+&lt;h2 id=&quot;so-why-create-a-blog-don-t-you-have-nothing-better-to-do-&quot;&gt;So why create a blog, don’t you have nothing better to do?&lt;/h2&gt;
+&lt;p&gt;That in fact is an excellent question (kinda rude, but its ok), first of all I want to write about tech and life and whatever crosses my mind, second, I’ve been working a lot with NodeJS and it makes me really happy to write in a static blog engine written in NodeJS. Also I want to check-in my activities somewhere (so I can check them back in the future), so why not in a public blog? hosted in my favorite service -&amp;gt; &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Well, I think that’s it for today.&lt;/p&gt;
+&lt;p&gt;Cheers~~&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
